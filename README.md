@@ -4,13 +4,12 @@ Hi 👋 My name is Artyom Sushchenko
 Backend developer
 ----------------------------------
 
-Java backend developer. I have good knowledge of the language and platform. Every day I develop new projects, as well as study unfamiliar technologies and frameworks. I am able to work in a team and try to borrow experience and knowledge from senior colleagues. I am ready to absorb a lot of information and develop as a developer.
+Java backend developer. I have good knowledge of the language and platform. Every day I develop new projects, as well as study unfamiliar technologies and frameworks. 
 
 * 🌍  I'm based in Murmansk, Russia
 * 🖥️  See my portfolio at [hh.ru](http://spb.hh.ru/resume/7b7b4f8eff0b06157c0039ed1f536d627a3941)
 * ✉️  You can contact me at [artoymsushchenko@gmail.com](mailto:artoymsushchenko@gmail.com), [telegram](https://t.me/sushchenkoa)
-* 🚀  I'm currently working on [my final paper project](http://github.com/lordphiluren/mysticplacesmap)
-* 🧠  I'm learning Docker, RabbitMQ, Kafka, JS, Algorithms and Data structures
+* 🧠  I'm learning RabbitMQ, Patterns
 
 ### Skills
 
