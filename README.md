@@ -1,7 +1,7 @@
-Hi 👋 My name is Artyom Sushchenko
+Artyom Sushchenko
 ==================================
 
-Backend developer
+Java Backend developer
 ----------------------------------
 
 Java backend developer. I have good knowledge of the language and platform. Every day I develop new projects, as well as study unfamiliar technologies and frameworks. 
