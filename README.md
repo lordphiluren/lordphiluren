@@ -1,4 +1,4 @@
-Artyom Sushchenko
+Hi! I'm Artyom Sushchenko
 ==================================
 
 Java Backend developer
