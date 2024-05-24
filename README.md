@@ -20,11 +20,3 @@ Java backend developer. I have good knowledge of the language and platform. Ever
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/aptemm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/lordphiluren" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/lordphiluren"><img src="https://github-readme-stats.vercel.app/api?username=lordphiluren&show_icons=true&hide=stars,issues,&count_private=true&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&show_icons=true" alt="lordphiluren's GitHub stats" /></a>
-
-<a href="http://www.github.com/lordphiluren"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lordphiluren&stroke=ffffff&background=27272a&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
